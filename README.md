@@ -2,6 +2,11 @@
 
 A self-learning Flappy Bird AI built using **Artificial Neural Networks (ANN)** and **Neuroevolution** concepts like **speciation**, **fitness calculation**, **sorting by fitness**, and **child generation**. The AI plays the game, evolves over generations, and gets better at surviving.
 
+## Preview:
+![Screenshot1](/images/ss.png)
+![screenshot2](/images/sss.png)
+
+
 ## 🚀 Features
 - ✅ Neural network-based AI birds
 - 🧬 Genetic Algorithm: evolve smarter generations
