@@ -40,3 +40,7 @@ python main.py
 
 ```
 
+### 5. Reference :
+https://youtu.be/zsGvCwaaMOI?si=_hZSk-uLTAowRecs
+Max Rohowsky
+- If anyone want notes regarding GA,and stuff taught in this video ,but in detail ,Can contact me for it.
